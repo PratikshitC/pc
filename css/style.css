@@ -1,0 +1,166 @@
+body
+{
+    color: #40514e;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+h1
+{
+    font-size: 562.5%;
+    margin: 60px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:#010a43 ;
+    line-height: 2;
+}
+h2
+{
+    font-size: 220%;
+    font-family: 'Montserrat', sans-serif;
+    color:#010a43;
+    padding-bottom: 10px;
+
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #204051;
+}
+p
+{
+    line-height: 2;
+}
+.top-container
+{
+    background-color: #ffe3ed;
+    position: relative;
+    padding-top: 100px;
+    
+  
+}
+.laptop
+{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+   
+    
+}
+
+.desktop
+{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+.middle-container
+{
+    margin: 100px 0;
+}
+
+.bottom-container
+{
+    background-color:#ffe3ed ;
+    padding: 50px 0 20px;
+}
+
+
+.first-division
+{
+
+    background-color: whitesmoke;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.second-division
+{
+    
+    background-color: whitesmoke;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+    margin: 100px auto;
+
+}
+.footer-link
+{
+    color: #204051;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+    
+}
+
+.webp
+{
+    width: 25%;
+    float: left;
+    margin-right:30px;
+}
+
+.pro 
+{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+.intro
+{
+    width: 30%;
+    margin: auto;
+}
+.contact-me
+{
+    width: 30%;
+    margin: auto;
+}
+.btn {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:17px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+    .btn:hover 
+    {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+    }
+ .btn:active 
+    {
+	position:relative;
+	top:1px;
+    }
+ a
+ {
+     color: #204051;
+     margin: 10px 20px;
+     text-decoration: none;
+ }
+
+ a:hover
+ {
+     color: #eaf6f6;
+ }
